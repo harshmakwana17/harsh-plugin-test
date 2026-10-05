@@ -1,0 +1,6 @@
+/wp-config.php
+/local-xdebuginfo.php
+/.htaccess
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/cache/
